@@ -6,7 +6,7 @@ Olá! seja Bem Vindo sou o Tenente444596
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+é+Patrick+Lopes+de+Oliveira;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+é+Patrick+Lopes+de+Oliveira;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Tenente444596&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Tenente444596 github stats"/> 
@@ -14,10 +14,12 @@ Olá! seja Bem Vindo sou o Tenente444596
 </div>
 
 ### Main skills:
-![PHP](https://shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://shields.io/badge/-JavaScipt-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![HTML5](https://shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![CSS](https://shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
 
 
 ### AI Tools & Assistants:
